@@ -30,4 +30,4 @@ To provide a clean and efficient interface for administrators to handle daily re
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/FelipeBurlim/Locadora-de-Automoveis.git](https://github.com/FelipeBurlim/CarRentalSystem.git)
+   git clone [https://github.com/FelipeBurlim/CarRentalSystem.git](https://github.com/FelipeBurlim/CarRentalSystem.git)
