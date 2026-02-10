@@ -1,5 +1,5 @@
 # Car Rental System
-This is a management system designed for car rental companies, developed as a practical project for the APR2 course.
+This is a management system designed for car rental companies, developed as a practical project in C.
 
 ## Table of Contents
 * [About the Project](#about-the-project)
@@ -30,4 +30,4 @@ To provide a clean and efficient interface for administrators to handle daily re
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/FelipeBurlim/Locadora-de-Automoveis.git](https://github.com/FelipeBurlim/Locadora-de-Automoveis.git)
+   git clone [https://github.com/FelipeBurlim/Locadora-de-Automoveis.git](https://github.com/FelipeBurlim/CarRentalSystem.git)
